@@ -1,0 +1,1530 @@
+[
+  {
+    "producto": "AVOCADO-TROPICAL 24# CAT-1 FROM DOMINICAN REPUBLIC",
+    "precio": 37.95,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "AVOCADO 32-36-40# CAT-1",
+    "precio": 30.95,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "AVOCADO 48# CAT-1",
+    "precio": 31.95,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "AVOCADO 60# CAT-1",
+    "precio": 31.95,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "AVOCADO 70# CAT-1",
+    "precio": 24.95,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "AVOCADO 84# CAT-1",
+    "precio": 23.95,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "AVOCADO #40-48-60 CAT-2",
+    "precio": 24.95,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "BELL PEPPER RED 11LBS CTN",
+    "precio": 18.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 100
+  },
+  {
+    "producto": "BELL PEPPER YELLOW 11LBS CTN",
+    "precio": 17.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 100
+  },
+  {
+    "producto": "BELL PEPPER-RED 1 1/9 CTN",
+    "precio": 27.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "BELL PEPPER YELLOW 1 1/9 CTN",
+    "precio": 28.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "MINISWEET BELL PEPPER-MIX 12/ 1LBS CTN",
+    "precio": 20.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 90
+  },
+  {
+    "producto": "GHOST HABANERO-RED 5LBS CARTON",
+    "precio": 47.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 120
+  },
+  {
+    "producto": "GHOST HABANERO-RED 8 CLAMS 1.7 OZ 14 OZ",
+    "precio": 20.0,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "SCOTCH BONNET-RED 5LBS CARTON",
+    "precio": 41.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 120
+  },
+  {
+    "producto": "SCOTCH BONNET-RED (CACHUCHA) 8CLAMS 1.7 OZ 14 OZ",
+    "precio": 12.0,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "SCORPION HABANERO-RED 5LBS CARTON",
+    "precio": 47.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 120
+  },
+  {
+    "producto": "SCORPION HABANERO-RED 8CLAMS 1.7 OZ 14 OZ",
+    "precio": 20.0,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "ANAHEIM 20 LBS PLASTIC/CTN",
+    "precio": 37.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "CHILACA 17LBS",
+    "precio": 41.95,
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "CHILTEPIN-FRESH (CHILE DE MONTE/CHILTEPETL) 18 CLAMS 4OZ",
+    "precio": 51.95,
+    "unidades_por_Pallet": 96
+  },
+  {
+    "producto": "DE ARBOL-GREEN PEPPER 20# CARTON",
+    "precio": 77.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "THAI PEPPER-GREEN CTN 20LBS FROM MX",
+    "precio": 77.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "THAI PEPPER-GREEN PLS 8LBS FROM MX",
+    "precio": 26.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 130
+  },
+  {
+    "producto": "THAI PEPPER-RED CTN 8LBS FROM MX",
+    "precio": 31.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "THAI PEPPER-RED CTN 30LBS FROM MX",
+    "precio": 107.0,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "HUNGARO 20LBS (BANANA/HUNGARIAN PEPPER)",
+    "precio": 38.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "MANZANO-ORANGE 10 LBS",
+    "precio": 21.95,
+    "unidades_por_Pallet": 110
+  },
+  {
+    "producto": "MANZANO-RED 10 LBS (ROCOTO)",
+    "precio": 21.95,
+    "unidades_por_Pallet": 110
+  },
+  {
+    "producto": "SHISHITO 20# PLASTIC",
+    "precio": 101.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "HABANERO-RED 8LBS PLASTIC",
+    "precio": 21.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 130
+  },
+  {
+    "producto": "HABANERO-ORANGE 8LBS PLASTIC",
+    "precio": 30.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 130
+  },
+  {
+    "producto": "JALAPEÑO 35 LBS CARTON",
+    "precio": 37.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "JALAPEÑO 35 LBS PLASTIC",
+    "precio": 37.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "POBLANO 20 LBS CARTON",
+    "precio": 40.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "POBLANO 20 LBS PLASTIC CAT1.5",
+    "precio": 22.0,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "SERRANO 35 LBS PLASTIC",
+    "precio": 37.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "TOMATILLO REGULAR 35 LBS PLASTIC",
+    "precio": 42.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "TOMATILLO 35 LBS WITHOUT HUSKS (SIN CASCARA) PLS",
+    "precio": 44.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "TOMATILLO-MILPERO 35#",
+    "precio": 43.95,
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "ONION-RED JUMBO 25 LBS",
+    "precio": 12.95,
+    "unidades_por_Pallet": 100
+  },
+  {
+    "producto": "ONION-RED LM 25 LBS",
+    "precio": 6.95,
+    "unidades_por_Pallet": 100
+  },
+  {
+    "producto": "ONION-WHITE COLOSSAL 50 LBS",
+    "precio": 13.95,
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "ONION-WHITE JUMBO 50 LBS",
+    "precio": 13.95,
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "ONION-WHITE LM 50 LBS",
+    "precio": 11.5,
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "ONION-YELLOW JUMBO 50 LBS",
+    "precio": 12.95,
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "GOLDEN DELICIOUS APPLE 96 CT XFCY FROM USA",
+    "precio": 41.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "GOLDEN DELICIOUS APPLE 80 CT XFCY FROM USA",
+    "precio": 46.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "GRANNY SMITH APPLE 56CT PREM FROM USA",
+    "precio": 38.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "GRANNY SMITH APPLE 72CT PREM FROM USA",
+    "precio": 38.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "COSMIC CRISP APPLE 50CT FROM USA",
+    "precio": 36.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "ENVY APPLE 40CT FCY FROM USA",
+    "precio": 35.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "FUJI APPLE 56CT XFCY FROM USA",
+    "precio": 36.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "HONEY APPLE 48CT XFCY FROM USA",
+    "precio": 47.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "PINK LADY APPLE 72CT XFCY FROM USA",
+    "precio": 38.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "RED DELICIOUS APPLE 72CT XFCY FROM USA",
+    "precio": 35.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "GALA APPLE 72CT XFCY FROM USA",
+    "precio": 48.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "GALA APPLE 80CT XFCY FROM USA",
+    "precio": 48.5,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "PEAR D`ANJOU 90CT CTN FROM USA",
+    "precio": 36.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 54
+  },
+  {
+    "producto": "PEAR RED 40CT CTN FROM USA",
+    "precio": 23.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "COCO CAFE 24-30# (BROWN COCONUT)",
+    "precio": 30.95,
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "COCO TIERNO 18-20-22-30# (WHITE COCONUT)",
+    "precio": 29.95,
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "COCO VERDE 10PZAS BAG (GREEN COCO)",
+    "precio": 20.95,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "COCO VERDE 12PZAS BAG (GREEN COCO)",
+    "precio": 20.95,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "COCO TIERNO 9# EASY OPEN(DIAMOND YOUNG COCONUT) VIETNAM",
+    "precio": 18.95,
+    "unidades_por_Pallet": 64
+  },
+  {
+    "producto": "GUAVA 13# CARTON",
+    "precio": 21.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 110
+  },
+  {
+    "producto": "GUAVA 13# CALVILLO",
+    "precio": 21.95,
+    "unidades_por_Pallet": 112
+  },
+  {
+    "producto": "GUAVA CLAMSHELLS 16/14 ONZAS",
+    "precio": 28.95,
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "HAMI MELON 5# 25LBS",
+    "precio": 23.5,
+    "unidades_por_Pallet": 70
+  },
+  {
+    "producto": "PINEAPPLE 5CT# CARTON",
+    "precio": 13.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 75
+  },
+  {
+    "producto": "PINEAPPLE 6CT# CARTON",
+    "precio": 13.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 75
+  },
+  {
+    "producto": "PINEAPPLE 7CT# CARTON",
+    "precio": 13.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 75
+  },
+  {
+    "producto": "PAPAYA 35 LBS CTN",
+    "precio": 17.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "PAPAYA 35 LBS CTN MIX# FULL COLOR",
+    "precio": 10.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "ORANGE 56# CTN-CHOICE",
+    "precio": 21.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 54
+  },
+  {
+    "producto": "ORANGE 64-72# CTN-CHOICE",
+    "precio": 18.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 54
+  },
+  {
+    "producto": "K-LIME 500-600# 17/2LBS PLASTIC",
+    "precio": 47.0,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "K-LIME 500-600# PLASTIC 40 LBS PLASTIC",
+    "precio": 43.0,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "LIME-SWEET (LIMA DULCE) PLASTIC 18LBS PLASTIC",
+    "precio": 23.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 96
+  },
+  {
+    "producto": "PERSIAN LIMES 110-150-175-200# (LIMON PERSA)",
+    "precio": 64.0,
+    "unidades_por_Pallet": 60
+  },
+  {
+    "producto": "PERSIAN LIMES 230# (LIMON PERSA)",
+    "precio": 63.0,
+    "unidades_por_Pallet": 60
+  },
+  {
+    "producto": "PERSIAN LIMES 250# (LIMON PERSA)",
+    "precio": 62.0,
+    "unidades_por_Pallet": 60
+  },
+  {
+    "producto": "TANGERINE NADORCOTT 60CT FROM MOROCCO",
+    "precio": 26.5,
+    "unidades_por_Pallet": 108
+  },
+  {
+    "producto": "TANGERINE NADORCOTT 68CT FROM MOROCCO",
+    "precio": 26.5,
+    "unidades_por_Pallet": 108
+  },
+  {
+    "producto": "BANANA LEAF-HOJA DE PLATANO PLASTIC #24",
+    "precio": 19.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "BANANA LEAF-HOJA DE PLATANO PLASTIC 25 BAGS 1 LBS",
+    "precio": 21.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "BANANA FLOWER 30#",
+    "precio": 30.95,
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "BANANA-THAI 30# MEXICO (GREEN)",
+    "precio": 19.95,
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "BANANA-BURRO 30 LBS (PERA) (BANABAG) FROM MEX",
+    "precio": 18.95,
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "BANANA-MANZANO (APPLE BANANA) 30 LBS FROM MEX",
+    "precio": 22.95,
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "BANANA-RED 16# CARTON FROM ECUADOR",
+    "precio": 32.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 84
+  },
+  {
+    "producto": "PLANTAIN-MAQUEÑO (GREEN) 35# FROM ECUADOR",
+    "precio": 32.95,
+    "unidades_por_Pallet": 77
+  },
+  {
+    "producto": "PLANTAIN-HAWAIIAN 33# FROM ECUADOR",
+    "precio": 40.95,
+    "unidades_por_Pallet": 77
+  },
+  {
+    "producto": "BANANA (COOKING) 40LBS CARTON GENERIC",
+    "precio": 19.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 54
+  },
+  {
+    "producto": "BANANA (COOKING) PREMIUM 40LBS CARTON NICO BRAND",
+    "precio": 25.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 54
+  },
+  {
+    "producto": "PLANTAIN-GREEN 50LBS (BANABAG) FROM ECUADOR",
+    "precio": 37.95,
+    "unidades_por_Pallet": 54
+  },
+  {
+    "producto": "CACAO CTN 4-5-6# 6.50LBS",
+    "precio": 31.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 90
+  },
+  {
+    "producto": "DATES (DATILES) CTN 11# LARGE FROM MX",
+    "precio": 40.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 200
+  },
+  {
+    "producto": "DRAGON-YELLOW FRUIT (PALORA) 5LBS CARTON EC CAT2",
+    "precio": 19.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 264
+  },
+  {
+    "producto": "DRAGON-YELLOW FRUIT (PALORA) 5LBS CARTON EC RETAIL",
+    "precio": 24.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 210
+  },
+  {
+    "producto": "DRAGON FRUIT WHITE FLESH 10LBS 7-8-9CT CARTON FROM EC",
+    "precio": 31.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 160
+  },
+  {
+    "producto": "FIGS BLACK MISSION CLAMSHELLS 12/8# ONZAS FROM PERU",
+    "precio": 29.95,
+    "unidades_por_Pallet": 204
+  },
+  {
+    "producto": "GOLDEN BERRY CLAMSHELLS 4LBS/12 CLAMSHELL 5 OZ COLOMBIA",
+    "precio": 25.5,
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "JACK FRUIT (PER POUND) 1-2-3 PC",
+    "precio": 0.52,
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "JACK FRUIT (PER POUND) 3 PC (THAI)",
+    "precio": 0.6,
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "LONGAN 11 LBS PLASTIC FROM VIETNAM",
+    "precio": 31.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 176
+  },
+  {
+    "producto": "MAMEY 25 LBS CTN",
+    "precio": 57.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "SUGAR CANE 10CT RED",
+    "precio": 18.95,
+    "unidades_por_Pallet": 60
+  },
+  {
+    "producto": "SUGAR CANE 10CT GREEN",
+    "precio": 17.95,
+    "unidades_por_Pallet": 60
+  },
+  {
+    "producto": "PINK PINEAPPLE 6CT# CARTON RETAIL LABEL",
+    "precio": 40.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 72
+  },
+  {
+    "producto": "NANCES EN ALMIBAR CUBETA 47 lbs (SYRUP)",
+    "precio": 81.0,
+    "presentacion": "CUBETA",
+    "unidades_por_Pallet": 36
+  },
+  {
+    "producto": "SWEET TAMARINDO CTN 16/1LB THAILAND",
+    "precio": 69.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 70
+  },
+  {
+    "producto": "STARFRUIT-(CARAMBOLA 9#) MEXICO",
+    "precio": 26.95,
+    "unidades_por_Pallet": 84
+  },
+  {
+    "producto": "RED TAMARILLO (TREE TOMATO) CTN 5# ECUADOR",
+    "precio": 20.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 200
+  },
+  {
+    "producto": "STRAWBERRY CTN 8/1LB CLAMSHELL MEX",
+    "precio": 17.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 120
+  },
+  {
+    "producto": "SAPODILLO- CHICOZAPOTE 20 BLS",
+    "precio": 72.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 20
+  },
+  {
+    "producto": "MANGO NAM DOK MAI 9CT",
+    "precio": 17.95,
+    "unidades_por_Pallet": 180
+  },
+  {
+    "producto": "MANGO NAM DOK MAI 10CT",
+    "precio": 17.95,
+    "unidades_por_Pallet": 180
+  },
+  {
+    "producto": "MANGO NAM DOK MAI 12CT",
+    "precio": 17.95,
+    "unidades_por_Pallet": 180
+  },
+  {
+    "producto": "MANGO NAM DOK MAI 14 CT",
+    "precio": 17.95,
+    "unidades_por_Pallet": 180
+  },
+  {
+    "producto": "MANGO NAM DOK MAI 16 CT",
+    "precio": 17.95,
+    "unidades_por_Pallet": 180
+  },
+  {
+    "producto": "MANGOS ATAULFO BABY",
+    "precio": 20.5,
+    "unidades_por_Pallet": 225
+  },
+  {
+    "producto": "MANGOS ATAULFO 10CT",
+    "precio": 14.0,
+    "unidades_por_Pallet": 225
+  },
+  {
+    "producto": "MANGOS ATAULFO 12CT",
+    "precio": 13.5,
+    "unidades_por_Pallet": 225
+  },
+  {
+    "producto": "MANGOS ATAULFO 14CT",
+    "precio": 11.25,
+    "unidades_por_Pallet": 225
+  },
+  {
+    "producto": "MANGOS ATAULFO 16CT",
+    "precio": 10.75,
+    "unidades_por_Pallet": 225
+  },
+  {
+    "producto": "MANGOS ATAULFO 18-20CT",
+    "precio": 10.5,
+    "unidades_por_Pallet": 225
+  },
+  {
+    "producto": "MANGOS SUNSET 18LBS TREE RIPE",
+    "precio": 2.0,
+    "unidades_por_Pallet": 96
+  },
+  {
+    "producto": "MANGO KENT 8CT FROM ECUADOR",
+    "precio": 10.95,
+    "unidades_por_Pallet": 252
+  },
+  {
+    "producto": "MANGO TOMMY 6-7-8 CT FROM MEXICO",
+    "precio": 10.5,
+    "unidades_por_Pallet": 225
+  },
+  {
+    "producto": "MANGO TOMMY 9-10-12 CT FROM MEXICO",
+    "precio": 9.75,
+    "unidades_por_Pallet": 225
+  },
+  {
+    "producto": "ALOE VERA CARTON 25 LBS",
+    "precio": 8.75,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 60
+  },
+  {
+    "producto": "CACTUS LEAVES-NOPALES CON ESPINAS 35 LBS",
+    "precio": 10.95,
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "MAGUEY PENCA DOZENS DELGADA",
+    "precio": 16.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "XOCONOSTLES (SOUR PEAR) 35#",
+    "precio": 27.95,
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "BEETS (BETABEL) 12 BUNCHES PLASTIC",
+    "precio": 9.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "BEETS (BETABEL) BAG 25#",
+    "precio": 12.95,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "BROCCOLI CROWN 22#",
+    "precio": 15.95,
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "CABBAGE CARTON 40 LBS (12-17 PZAS)",
+    "precio": 18.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "CABBAGE-BAG 45 LBS",
+    "precio": 14.95,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "CARROTS 50# (ZANAHORIAS)",
+    "precio": 21.5,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "CAULIFLOWER 12CT CARTON",
+    "precio": 18.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "CELERY 24# CTN NAKED",
+    "precio": 26.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "CEBOLLITA PLASTIC 48CT (MEXICAN ONION)",
+    "precio": 14.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "CHAYOTE VERDE CON ESPINAS 35# (GREEN/WITH THORN) (CRIOLLO)",
+    "precio": 28.95,
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "CHAYOTE CON ESPINAS 35# (WITH THORN)",
+    "precio": 28.95,
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "CHAYOTE SQUASH-BLACK 40# (CHAYOTE NEGRO)",
+    "precio": 28.95,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "CHAYOTE SQUASH 35# PLASTIC",
+    "precio": 28.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "CHAYOTE SQUASH 40# AGROCOSCO BRAND",
+    "precio": 29.95,
+    "unidades_por_Pallet": 49
+  },
+  {
+    "producto": "CILANTRO 60 bunches PLASTIC (PLASTICO)",
+    "precio": 10.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "CILANTRO 60 bunches PLASTIC (PLASTICO) PLU",
+    "precio": 10.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "CILANTRO 24 bunches PLS (MACHO)",
+    "precio": 14.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "CORN-SWEET-YELLOW 4 DOZEN CARTON",
+    "precio": 55.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "CORN-SWEET-YELLOW 12TRAYS/4CT LIMITED",
+    "precio": 48.95,
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "CORN-WHITE 4 DOZEN (ELOTE MEXICANO) BAG",
+    "precio": 18.95,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "CUCUMBER LARGE CARTON 50 LBS",
+    "precio": 54.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "CUCUMBER SELECT CARTON 50 LBS",
+    "precio": 54.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "CUCUMBER S. SELECT CARTON 50 LBS",
+    "precio": 54.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "CUCUMBER PLAIN CARTON 50 LBS",
+    "precio": 41.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "CHICKPEAS (FRESH GARBANZOS) 15lbs PLASTIC",
+    "precio": 30.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 64
+  },
+  {
+    "producto": "GREEN BEANS (HABICHUELA-EJOTE) PLASTIC 22#-LIGHT (STRIKE)",
+    "precio": 44.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "ICEBERG CELLO LETTUCE 24# CARTON",
+    "precio": 16.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "RADISHES BUNCHES 24# PLASTIC PLU",
+    "precio": 13.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "SQUASH-TATUMA 35# PLASTIC",
+    "precio": 61.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "SQUASH-GREY 35# PLASTIC PRE-COOLED FRESH",
+    "precio": 37.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "SQUASH BLOSSOM (FLOR DE CALABAZA) FRESH PLS 1 LBS",
+    "precio": 4.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "SQUASH-ARJUNA BAG 30# (AYOTE) FROM COSTA RICA",
+    "precio": 18.95,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 70
+  },
+  {
+    "producto": "CULANTRO (CILANTRO COYOTE) CTN 8# FROM CR",
+    "precio": 24.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 100
+  },
+  {
+    "producto": "SWISS CHARD-RED 24 BONCHES PLASTIC (ACELGAS)",
+    "precio": 15.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "SWISS CHARD-GREEN 24 BONCHES PLASTIC (ACELGAS)",
+    "precio": 11.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "CHILACAYOTA 35# BAG",
+    "precio": 19.95,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "ENGLISH PEA (CHICHAROS/ARVEJAS) 30# INBOUND",
+    "precio": 57.75,
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "EPAZOTE 40 BUNCHES PLASTIC",
+    "precio": 19.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "HABBAS 28# PLASTIC (FAVA BEANS)",
+    "precio": 41.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "HIERBABUENA 40 BUNCHES PLASTIC (Spearmint)",
+    "precio": 21.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "MINT 24 BUNCHES PLASTIC",
+    "precio": 27.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "HIERBAS DE OLOR 24 BUNCHES (AROMATIC HERBS)",
+    "precio": 31.95,
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "HOJA SANTA 30 BUNCHES PLASTIC",
+    "precio": 24.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "HUAJE GREEN PLASTIC 24CT INBOUND",
+    "precio": 56.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "HUAJE RED PLASTIC 24CT",
+    "precio": 29.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "OREGANO 24 BUNCHES PLASTIC",
+    "precio": 21.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "PAPALO 40 BUNCHES PLASTIC",
+    "precio": 45.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "PIPITZA 40 BUNCHES PLASTIC",
+    "precio": 51.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "PARSLEY (ITALIAN-FLAT) 60 BUNCHES PLASTIC",
+    "precio": 13.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "PARSLEY-CURLY 50 BUNCHES PLASTIC",
+    "precio": 18.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "THYME-TOMILLO 24 BUNCHES PLASTIC",
+    "precio": 9.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "VERDOLAGAS 24 BUNCHES PLASTICO",
+    "precio": 25.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "INDIAN BITTER MELON 30# (KARELA) CARTON",
+    "precio": 47.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "BENGALI-GREEN SQUASH 35LBS CARTON",
+    "precio": 17.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "FUZZY SQUASH 35LBS CARTON LIMITED",
+    "precio": 17.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "CHINESE EGGPLANT 30 LBS CARTON",
+    "precio": 27.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "INDIAN EGGPLANT 30 LBS CARTON",
+    "precio": 27.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "THAI EGGPLANT 30LBS CARTON",
+    "precio": 34.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "WINTERMELON (TONKWA) BIN PER LBS",
+    "precio": 0.38,
+    "presentacion": "BIN",
+    "unidades_por_Pallet": 1
+  },
+  {
+    "producto": "BONIATO BATATA (SWEET POTATO MURASAKI ORIENTAL YAM) 40 LBS CTN USA MED",
+    "precio": 44.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "GARLIC-WHITE 30LBS LOOSE CARTON FROM CHILE",
+    "precio": 41.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "GARLIC-PELEED 4/5LB",
+    "precio": 51.95,
+    "unidades_por_Pallet": 112
+  },
+  {
+    "producto": "GINGER 28 LBS PLASTIC FROM PERU/CR",
+    "precio": 41.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 72
+  },
+  {
+    "producto": "JICAMA 35 LBS PLASTIC MED",
+    "precio": 15.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "JICAMA 35 LBS PLASTIC LARGE",
+    "precio": 15.95,
+    "presentacion": "PLASTIC",
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "MALANGA EDDOES CARTON 33# FROM ECU",
+    "precio": 37.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "MALANGA BLANCA 33# CARTON FROM CR/ECU",
+    "precio": 71.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 84
+  },
+  {
+    "producto": "MALANGA LILA 33# CTN FROM CR/ECU",
+    "precio": 75.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 84
+  },
+  {
+    "producto": "MALANGA COCO 40LBS BAGS FROM MX",
+    "precio": 23.5,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 66
+  },
+  {
+    "producto": "RUSSET IDAHO POTATO 10/5LBS",
+    "precio": 17.0,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "RUSSET IDAHO POTATO 5/10LBS",
+    "precio": 17.0,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "RUSSET IDAHO POTATO 40CT 50#",
+    "precio": 17.0,
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "RUSSET IDAHO POTATO 70CT 50#",
+    "precio": 17.0,
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "RUSSET IDAHO POTATO 90CT 50#",
+    "precio": 17.0,
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "RUSSET IDAHO POTATO 100CT 50#",
+    "precio": 17.0,
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "RED POTATOES 50# US1 A",
+    "precio": 28.5,
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "RED POTATOES 50# US1 B",
+    "precio": 32.5,
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "WHITE POTATOES 50# A",
+    "precio": 41.5,
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "WHITE POTATOES 50# B",
+    "precio": 30.5,
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "WHITE POTATOES 3/4 MIN C",
+    "precio": 51.5,
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "TURMERIC BAG 28LBS (CURCUMA)",
+    "precio": 117.95,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "YAM WHITE (ÑAME BLANCO) 33BLS",
+    "precio": 34.95,
+    "unidades_por_Pallet": 63
+  },
+  {
+    "producto": "YUCA CTN 33LBS FROM C.R PREMIUM SWEET SEASONS BRAND",
+    "precio": 34.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 70
+  },
+  {
+    "producto": "WHOLE COYOL IN SYRUP PAIL 48 LBS",
+    "precio": 150.0,
+    "unidades_por_Pallet": 36
+  },
+  {
+    "producto": "HONEY CTN 12/19.75 OZ (MIEL DE ABEJA)",
+    "precio": 104.0,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "FIG JAM CTN 24/8.28OZ (MERMELADA HIGO)",
+    "precio": 80.0,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 72
+  },
+  {
+    "producto": "FIG JAM CTN 12/17.63OZ (MERMELADA HIGO)",
+    "precio": 85.85,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 80
+  },
+  {
+    "producto": "PILONCILLO (PANELA) 30LBS/60CT CTN",
+    "precio": 41.0,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 100
+  },
+  {
+    "producto": "PILONCILLO (PANELA) 25LBS CTN MINI",
+    "precio": 38.5,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 81
+  },
+  {
+    "producto": "CARBON BAG 30# (MEZQUITE)",
+    "precio": 15.0,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "CARBON BAG 6# (MEZQUITE)",
+    "precio": 5.95,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 130
+  },
+  {
+    "producto": "CHIPS SALTED YUCA 30/12oz bags",
+    "precio": 147.0,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 12
+  },
+  {
+    "producto": "CHIPS SWEET PLANTAIN 30/12oz bags",
+    "precio": 154.0,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 54
+  },
+  {
+    "producto": "JAR-HUITLACOCHE (CORN TRUFFLE) 12/32 Oz CARTON",
+    "precio": 67.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 70
+  },
+  {
+    "producto": "JAR-PICKLED MANZANO CTN 12/14.04oz",
+    "precio": 41.95,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 88
+  },
+  {
+    "producto": "JALAPENO CHILI CIRSPY-DON CHILIO 5OZ/6 JARS",
+    "precio": 31.95,
+    "unidades_por_Pallet": 175
+  },
+  {
+    "producto": "SERRANO CHILI CIRSPY-DON CHILIO 5OZ/6 JARS",
+    "precio": 31.95,
+    "unidades_por_Pallet": 175
+  },
+  {
+    "producto": "DRY-CHILTEPIN PEPPERS 40 BAG/4 OZ.",
+    "precio": 402.0,
+    "presentacion": "BAG",
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-ANCHO PEPPERS 25LBS",
+    "precio": 92.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-GUAJILLO MEXICANO PEPPERS 25LBS",
+    "precio": 100.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-GUAJILLO PERUANO (PAPRIKA) PEPPERS 25LBS",
+    "precio": 74.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-PASILLA PEPPERS 25LBS",
+    "precio": 164.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-PUYA PEPPERS 25LBS",
+    "precio": 74.5,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-COSTEÑO PEPPERS 25LBS",
+    "precio": 83.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-MULATO PEPPERS 25LBS",
+    "precio": 112.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-MORITA PEPPERS 25LBS",
+    "precio": 67.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-DE ARBOL PEPPERS 15LBS",
+    "precio": 44.5,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-CASCABEL PEPPERS 10LBS",
+    "precio": 77.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-NVO MEXICO PEPPERS 20LBS",
+    "precio": 67.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-CHIPOTLE PEPPERS 20LBS",
+    "precio": 167.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "CORN HUSKS (HOJA DE TAMAL) 24/1 LBS MAMA CHEDES BRAND",
+    "precio": 71.95,
+    "unidades_por_Pallet": 40
+  },
+  {
+    "producto": "DRY-GARBANZO 50LBS",
+    "precio": 40.5,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "CANELA ENTERA 55LBS",
+    "precio": 494.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "CANELA 5\" 50LBS",
+    "precio": 467.0,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "DRY-TAMARINDO CTN #25",
+    "precio": 74.0,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 42
+  },
+  {
+    "producto": "DRY-JAMAICA FLOR (DRIED HIBISCUS) CARTON 25 LBS",
+    "precio": 65.0,
+    "presentacion": "CARTON",
+    "unidades_por_Pallet": 56
+  },
+  {
+    "producto": "FRIJOL PERUANO",
+    "precio": 43.0,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "FRIJOL NEGRO 50 LBS",
+    "precio": 31.0,
+    "unidades_por_Pallet": 44
+  },
+  {
+    "producto": "FRIJOL PINTO 50 LBS",
+    "precio": 25.5,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "FRIJOL CRANBERRY 50 LBS",
+    "precio": 49.5,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "FRIJOL ROJO 50 LBS",
+    "precio": 38.5,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "LENTEJAS 50 LBS",
+    "precio": 52.0,
+    "unidades_por_Pallet": 44
+  },
+  {
+    "producto": "MAIZ AZUL PARA TORTILLAS 50 LBS (NIXTAMALERO)",
+    "precio": 24.95,
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "MAIZ BLANCO PARA TORTILLAS 50 LBS (NIXTAMALERO)",
+    "precio": 20.95,
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "MAIZ AMARILLO PARA TORTILLAS 50 LBS (NIXTAMALERO)",
+    "precio": 20.95,
+    "unidades_por_Pallet": 45
+  },
+  {
+    "producto": "MAIZ MORADO 50 LBS (POZOLERO)",
+    "precio": 44.0,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "MAIZ BLANCO 50 LBS (POZOLERO)",
+    "precio": 48.0,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "PUMPKIN SEEDS (SEMILLA DE CALABAZA) 26# lbs DORADA CON SAL",
+    "precio": 61.95,
+    "unidades_por_Pallet": 33
+  },
+  {
+    "producto": "PUMPKIN SEEDS (SEMILLA DE CALABAZA) 26# lbs RAW",
+    "precio": 59.95,
+    "unidades_por_Pallet": 33
+  },
+  {
+    "producto": "PEANUTS (CACAHUATES) 50 LBS (RAW)",
+    "precio": 74.95,
+    "unidades_por_Pallet": 35
+  },
+  {
+    "producto": "PEANUTS (CACAHUATES) 50 LBS",
+    "precio": 69.95,
+    "unidades_por_Pallet": 36
+  },
+  {
+    "producto": "TEA-DRY-AVOCADO LEAF (HOJA DE AGUACATE SECA) 20/0.5oz",
+    "precio": 34.95,
+    "unidades_por_Pallet": 52
+  },
+  {
+    "producto": "TEA EUCALIPTO 25/0.5 oz",
+    "precio": 34.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "TEA EPAZOTE 25/05.oz",
+    "precio": 34.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "TEA OREGANO 25/0.5 oz",
+    "precio": 34.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "TEA FLOR MANZANILLA 20/0.5 oz",
+    "precio": 34.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "TEA GUAVA 25/0.5 oz",
+    "precio": 34.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "TEA MORINGA 25/0.5 oz",
+    "precio": 34.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "TEA VALERIANA 25/0.5 oz",
+    "precio": 49.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "TEA ROMERO 25/05.oz",
+    "precio": 44.95,
+    "unidades_por_Pallet": 50
+  },
+  {
+    "producto": "SODA-COCA COLA 24/16 OZ",
+    "precio": 36.5,
+    "unidades_por_Pallet": 48
+  },
+  {
+    "producto": "YUCA 6BAGS /5LBS EACH",
+    "precio": 41.0,
+    "unidades_por_Pallet": 83
+  },
+  {
+    "producto": "CHILES RELLENOS PREMIUM 1/30 PZAS (5.6 KG) (12.33 LB) 30PZAS CHEESE",
+    "precio": 64.5,
+    "unidades_por_Pallet": 135
+  },
+  {
+    "producto": "RAJAS POBLANA 4/5 LIBRAS",
+    "precio": 38.5,
+    "unidades_por_Pallet": 44
+  }
+]
